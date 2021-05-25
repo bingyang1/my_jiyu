@@ -43,3 +43,5 @@ Jiyu_udp_attack脚本来自 https://github.com/ht0Ruial/Jiyu_udp_attack
            Attack.py -i 224.50.50.42 -k
            Attack.py -i 224.50.50.42 --sih -t 1 -l 200 --echo -m "Ha Ha Ha"
   
+# 
+            其中部分功能不可用,例如kill,需要自己改包的教师端ip
